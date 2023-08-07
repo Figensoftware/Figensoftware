@@ -18,5 +18,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=figensoftware&show_icons=true&locale=en&layout=compact" alt="figensoftware" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=figensoftware&show_icons=true&locale=en" alt="figensoftware" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=figensoftware&" alt="figensoftware" /></p>
