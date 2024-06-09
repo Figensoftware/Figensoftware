@@ -6,6 +6,8 @@
 - 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **figendaghan06@gmail.com**
+  
+- My portfolio link: https://figenportfolio.netlify.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
