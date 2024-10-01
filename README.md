@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Figen</h1>
 <h3 align="center">I'm a Front-End Developer, from Turkiye</h3>
 
-- 🔭 I’m currently working on **Javascript**
+- 🔭 I’m currently working on **Javascript** and **React**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Typescript**
 
 - 📫 How to reach me **figendaghan06@gmail.com**
 
